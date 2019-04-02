@@ -1,0 +1,7 @@
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\bin\Debug\_03.Football_Souveneers.exe.config
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\bin\Debug\_03.Football_Souveneers.exe
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\bin\Debug\_03.Football_Souveneers.pdb
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\obj\Debug\03. Football Souveneers.csprojResolveAssemblyReference.cache
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\obj\Debug\03. Football Souveneers.csproj.CoreCompileInputs.cache
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\obj\Debug\_03.Football_Souveneers.exe
+G:\C#\GitHub Repositories\Programing Basics With C#\07. Exam Preparation\07. Exam Preparation\03. Football Souveneers\obj\Debug\_03.Football_Souveneers.pdb
